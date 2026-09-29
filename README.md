@@ -34,3 +34,9 @@ After initial feedback on the layout, I reviewed the remaining pages and applied
 ## What I learned
 
 The most useful measures depend on the question being asked and the filters applied. Building this report gave me practice carrying an operations question from data preparation through modeling, DAX, visual design, and validation. It also taught me to test a report as a reader would: change filters, follow a drillthrough, check narrow screens, and confirm that the refreshed report still behaves as intended.
+
+### Power BI Service dashboard
+
+I published the report to Power BI Service and created an executive dashboard with four KPI tiles and a processed-volume trend. Selecting a tile opens the detailed report.
+
+![Global Payments Executive Summary dashboard](images/power-bi-service-dashboard.png)
