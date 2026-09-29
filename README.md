@@ -4,6 +4,10 @@
 
 `Power BI` · `Power Query` · `DAX` · `Data Modeling` · `Desktop + Mobile`
 
+## Open the report
+
+Download the [Power BI report](Global_Payments_Performance_Portfolio_v3.pbix) and open it in Power BI Desktop. The included data is synthetic and illustrative.
+
 > **Portfolio note:** This project uses synthetic, anonymized data. The figures in the report are illustrative and are not client results.
 
 ## Report pages
