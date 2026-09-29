@@ -39,4 +39,4 @@ The most useful measures depend on the question being asked and the filters appl
 
 I published the report to Power BI Service and created an executive dashboard with four KPI tiles and a processed-volume trend. Selecting a tile opens the detailed report.
 
-![Global Payments Executive Summary dashboard](images/power-bi-service-dashboard.png)
+![Global Payments Executive Summary dashboard](power-bi-service-dashboard.png)
