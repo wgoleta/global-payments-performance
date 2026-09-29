@@ -6,6 +6,20 @@
 
 > **Portfolio note:** This project uses synthetic, anonymized data. The figures in the report are illustrative and are not client results.
 
+## Report pages
+
+### Executive Overview
+![Executive Overview](Global-Payments-Executive-Overview.png)
+
+### Processor Performance
+![Processor Performance](Global-Payments-Processor-Performance.png)
+
+### Fee Optimization
+![Fee Optimization](Global-Payments-Fee-Optimization.png)
+
+### Network Incentives
+![Network Incentives](Global-Payments-Network-Incentives.png)
+
 ## The question
 
 Payments teams need to understand more than transaction volume. Are approval rates changing? Which processors or markets warrant a closer look? Where do billed fees differ from expectations, and how much of an identified savings opportunity has been realized? I built this report to bring those questions into one navigable view.
