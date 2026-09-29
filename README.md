@@ -40,6 +40,9 @@ Payments teams need to understand more than transaction volume. Are approval rat
 - Created DAX measures for payment volume, approvals, fees, savings, and incentives, including time-based comparisons.
 - Added synced slicers, a dynamic executive trend, a processor tooltip and drillthrough page, and mobile layouts for the four main pages.
 - Tested slicer interactions, the metric selector, tooltip and drillthrough behavior, and data refresh.
+- Built a separate RLS demo copy with a static Asia Pacific role and a dynamic user-to-region role using `USERPRINCIPALNAME()`; tested both in Power BI Desktop, including an unmapped user.
+
+The RLS roles are in a separate demo copy. They have not been tested with a real Viewer account in Power BI Service and are not part of the published v3 report.
 
 ## Design decisions
 
