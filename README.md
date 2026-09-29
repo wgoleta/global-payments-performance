@@ -9,16 +9,16 @@
 ## Report pages
 
 ### Executive Overview
-![Executive Overview](Global-Payments-Executive-Overview.png)
+![Executive Overview](Global%20Payments%20Executive%20Overview.png)
 
 ### Processor Performance
-![Processor Performance](Global-Payments-Processor-Performance.png)
+![Processor Performance](Global%20Payments%20Processor%20Performance.png)
 
 ### Fee Optimization
-![Fee Optimization](Global-Payments-Fee-Optimization.png)
+![Fee Optimization](Global%20Payments%20Fee%20Optimization.png)
 
 ### Network Incentives
-![Network Incentives](Global-Payments-Network-Incentives.png)
+![Network Incentives](Global%20Payments%20Network%20Incentives.png)
 
 ## The question
 
