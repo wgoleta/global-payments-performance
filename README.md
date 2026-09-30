@@ -56,6 +56,12 @@ After initial feedback on the layout, I reviewed the remaining pages and applied
 
 The most useful measures depend on the question being asked and the filters applied. Building this report gave me practice carrying an operations question from data preparation through modeling, DAX, visual design, and validation. It also taught me to test a report as a reader would: change filters, follow a drillthrough, check narrow screens, and confirm that the refreshed report still behaves as intended.
 
+## Key findings from the illustrative data
+
+- **Processor fees:** Processor Beta has the highest invoice variance rate at approximately 0.38%, representing about $5.04K in invoice variance. This makes it the first processor to investigate for billing differences.
+- **Savings realization:** Authorization Improvement has the largest gap between expected and realized annual savings: approximately $105K expected versus $24K realized, a gap of about $81K.
+- **Network incentives:** At Risk is the largest qualification group, with 159 of 384 records (41.41%). These records warrant investigation to understand which qualification requirements are unmet and whether any can be addressed.
+
 ### Power BI Service dashboard
 
 I published the report to Power BI Service and created an executive dashboard with four KPI tiles and a processed-volume trend. Selecting a tile opens the detailed report.
