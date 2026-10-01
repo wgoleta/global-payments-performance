@@ -15,16 +15,19 @@ The Processor Reviews page includes a Power Apps visual. Its form and email auto
 ## Report pages
 
 ### Executive Overview
-![Executive Overview](Global%20Payments%20Executive%20Overview.png)
+![Executive Overview](Global%20Payments%20Executive%20Overview%20v2.png)
 
 ### Processor Performance
-![Processor Performance](Global%20Payments%20Processor%20Performance.png)
+![Processor Performance](Global%20Payments%20Processor%20Performance%20v2.png)
 
 ### Fee Optimization
-![Fee Optimization](Global%20Payments%20Fee%20Optimization.png)
+![Fee Optimization](Global%20Payments%20Fee%20Optimization%20v2.png)
 
 ### Network Incentives
-![Network Incentives](Global%20Payments%20Network%20Incentives.png)
+![Network Incentives](Global%20Payments%20Network%20Incentives%20v2.png)
+
+### Processor Reviews
+![Processor Reviews report page](Global%20Payments%20Processor%20Reviews%20v2.png)
 
 ## The question
 
@@ -58,12 +61,18 @@ On the Processor Reviews page, a user selects a processor and submits a review t
 
 The Power App, Dataverse table, and flow are connected services; their configuration is not packaged inside the `.pbix` file.
 
-<!-- After uploading the screenshots, replace the filenames below with their exact repository paths and remove the comment markers.
+### Power Apps Processor Variance Reviews
 
-![Processor Reviews report page](images/processor-reviews.png)
-![High variance email alert](images/high-variance-email.png)
+![Power Apps Processor Variance Reviews](Power%20Apps%20Processor%20Variance%20Reviews.png)
 
--->
+### Power Automate Flag High Variance Reviews
+
+![Power Automate Flag High Variance Reviews](Power%20Automate%20Flag%20High%20Variance%20Reviews.png)
+
+### High variance email alert
+
+![High variance email alert](Power%20Automate%20High%20Variance%20Invoice%20Alerts.png)
+
 
 ## Design decisions
 
