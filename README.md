@@ -51,13 +51,11 @@ Payments teams need to understand more than transaction volume. Are approval rat
 - Added synced slicers, a dynamic executive trend, a processor tooltip and drillthrough page, and mobile layouts for the four main analytical pages.
 - Integrated a Power App to capture processor variance reviews in Dataverse. A Power Automate flow marks newly added reviews with invoice variance of at least $1,000 as High priority and sends an email alert with the review details.
 - Tested slicer interactions, the metric selector, tooltip and drillthrough behavior, data refresh, review submission, priority updates, and email delivery.
-- Built a separate RLS demo copy with a static Asia Pacific role and a dynamic user-to-region role using `USERPRINCIPALNAME()`; tested both in Power BI Desktop, including an unmapped user.
-
-The RLS roles are in a separate demo copy. They have not been tested with a real Viewer account in Power BI Service and are not part of the published v3 report.
+- Built RLS with a static Asia Pacific role and a dynamic user-to-region role using `USERPRINCIPALNAME()`; tested both in Power BI Desktop, including an unmapped user. These have not been tested with a real Viewer account in Power BI Service and are part of the published v3 report.
 
 ### Power Apps and automation
 
-On the Processor Reviews page, a user selects a processor and submits a review through the embedded Power App. The review is saved in Dataverse. When a newly added review has an invoice variance of at least $1,000, Power Automate sets its priority to High and sends an email alert. I tested this with a synthetic $1,500 review and confirmed both the High priority value and the delivered email.
+On the Processor Reviews page, a user selects a processor and submits a review through the embedded Power App. The review is saved in Dataverse. When a newly added review has an invoice variance of at least $1K, Power Automate sets its priority to High and sends an email alert. I tested this with a synthetic $1.5K review and confirmed both the High priority value and the delivered email.
 
 The Power App, Dataverse table, and flow are connected services; their configuration is not packaged inside the `.pbix` file.
 
