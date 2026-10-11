@@ -15,19 +15,19 @@ The Processor Reviews page includes a Power Apps visual. Its form and email auto
 ## Report pages
 
 ### Executive Overview
-![Executive Overview](Global%20Payments%20Executive%20Overview%20v2.png)
+![Executive Overview](Global%20Payments%20Executive%20Overview%20v3.png)
 
 ### Processor Performance
-![Processor Performance](Global%20Payments%20Processor%20Performance%20v2.png)
+![Processor Performance](Global%20Payments%20Processor%20Performance%20v3.png)
 
 ### Fee Optimization
-![Fee Optimization](Global%20Payments%20Fee%20Optimization%20v2.png)
+![Fee Optimization](Global%20Payments%20Fee%20Optimization%20v3.png)
 
 ### Network Incentives
-![Network Incentives](Global%20Payments%20Network%20Incentives%20v2.png)
+![Network Incentives](Global%20Payments%20Network%20Incentives%20v3.png)
 
 ### Processor Reviews
-![Processor Reviews report page](Global%20Payments%20Processor%20Reviews%20v2.png)
+![Processor Reviews report page](Global%20Payments%20Processor%20Reviews%20v3.png)
 
 ## The question
 
